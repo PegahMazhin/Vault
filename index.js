@@ -7,6 +7,4 @@ alert (`You have received this message because you have been chosen to open an i
 ${numOne} ${numTwo} ${numThree}`) // showing the message + three variables to the user
 
 
-//pseudocode
-// declaring three variables through mathematical calculation
-// showing a message + variables through ${}
+
